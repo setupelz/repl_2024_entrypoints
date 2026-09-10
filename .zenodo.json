@@ -1,0 +1,33 @@
+{
+  "title": "Replication archive: Entry points for assessing 'fair shares' in national mitigation contributions",
+  "description": "<p>Code, data and figures for Pelz et al. (2025), <i>Environmental Research Letters</i>, <a href=\"https://doi.org/10.1088/1748-9326/ada45f\">doi:10.1088/1748-9326/ada45f</a>. Summary and materials: <a href=\"https://setupelz.com/work/fair-shares-entry-points.html\">https://setupelz.com/work/fair-shares-entry-points.html</a>.</p>",
+  "creators": [
+    {
+      "name": "Pelz, Setu",
+      "affiliation": "International Institute for Applied Systems Analysis",
+      "orcid": "0000-0002-3528-8679"
+    }
+  ],
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "fair shares",
+    "nationally determined contributions",
+    "climate equity",
+    "European Union",
+    "replication archive"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1088/1748-9326/ada45f",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://setupelz.com/work/fair-shares-entry-points.html",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
+    }
+  ]
+}
